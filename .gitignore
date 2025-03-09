@@ -5,9 +5,6 @@
 ## Build generated
 build/
 DerivedData/
-FotocasaUIKit/FotocasaUIKit/Resources/Generated/
-Habitaclia/Codegen/
-Habitaclia/HabitacliaCore/Codegen
 
 ## Various settings
 *.pbxuser
@@ -61,4 +58,7 @@ vendor/
 
 # Ruby
 /.bundle
+
+#SPM
+.swiftspm/
 
